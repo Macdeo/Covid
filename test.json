@@ -1,0 +1,146 @@
+{
+    "2020": {
+        "Mar": {
+            "hospDay": 415,
+            "intcare": 23,
+            "dayOut": 34,
+            "death": 11
+        },
+        "Apr": {
+            "hospDay": 4211,
+            "intcare": 79,
+            "dayOut": 242,
+            "death": 70
+        },
+        "May": {
+            "hospDay": 3928,
+            "intcare": 6,
+            "dayOut": 132,
+            "death": 15
+        },
+        "Jun": {
+            "hospDay": 1980,
+            "intcare": 1,
+            "dayOut": 48,
+            "death": 8
+        },
+        "Jul": {
+            "hospDay": 1191,
+            "intcare": 2,
+            "dayOut": 27,
+            "death": 2
+        },
+        "Aug": {
+            "hospDay": 848,
+            "intcare": 0,
+            "dayOut": 11,
+            "death": 0
+        },
+        "Sep": {
+            "hospDay": 987,
+            "intcare": 9,
+            "dayOut": 38,
+            "death": 5
+        },
+        "Oct": {
+            "hospDay": 3123,
+            "intcare": 42,
+            "dayOut": 183,
+            "death": 34
+        },
+        "Nov": {
+            "hospDay": 12039,
+            "intcare": 74,
+            "dayOut": 552,
+            "death": 156
+        },
+        "Dec": {
+            "hospDay": 9770,
+            "intcare": 33,
+            "dayOut": 328,
+            "death": 85
+        }
+    },
+    "2021": {
+        "Jan": {
+            "hospDay": 7886,
+            "intcare": 54,
+            "dayOut": 299,
+            "death": 77
+        },
+        "Feb": {
+            "hospDay": 6197,
+            "intcare": 53,
+            "dayOut": 310,
+            "death": 60
+        },
+        "Mar": {
+            "hospDay": 5484,
+            "intcare": 57,
+            "dayOut": 275,
+            "death": 55
+        },
+        "Apr": {
+            "hospDay": 5549,
+            "intcare": 84,
+            "dayOut": 271,
+            "death": 30
+        },
+        "May": {
+            "hospDay": 4985,
+            "intcare": 16,
+            "dayOut": 179,
+            "death": 28
+        },
+        "Jun": {
+            "hospDay": 2938,
+            "intcare": 14,
+            "dayOut": 90,
+            "death": 8
+        },
+        "Jul": {
+            "hospDay": 1814,
+            "intcare": 7,
+            "dayOut": 40,
+            "death": 2
+        },
+        "Aug": {
+            "hospDay": 2219,
+            "intcare": 21,
+            "dayOut": 74,
+            "death": 6
+        },
+        "Sep": {
+            "hospDay": 1685,
+            "intcare": 12,
+            "dayOut": 43,
+            "death": 10
+        },
+        "Oct": {
+            "hospDay": 1350,
+            "intcare": 4,
+            "dayOut": 18,
+            "death": 5
+        },
+        "Nov": {
+            "hospDay": 1376,
+            "intcare": 10,
+            "dayOut": 37,
+            "death": 2
+        },
+        "Dec": {
+            "hospDay": 2686,
+            "intcare": 42,
+            "dayOut": 153,
+            "death": 24
+        }
+    },
+    "2022": {
+        "Jan": {
+            "hospDay": 2300,
+            "intcare": 11,
+            "dayOut": 135,
+            "death": 19
+        }
+    }
+}
